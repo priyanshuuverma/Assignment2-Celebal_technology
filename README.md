@@ -9,24 +9,22 @@
 
 ## 📌 Overview
 
-This project is the second task assigned during my internship at **Celebal Technologies**. It focuses on building a robust, secure, and efficient **Todo List Using React JS And its States** between **ClickHouse** and **Flat Files (CSV)** using:
+This project is the second task assigned during my internship at **Celebal Technologies**. It focuses on building a robust, secure, and efficient **Todo List Using React JS And its States** using:
 
-- ✅ **JWT Authentication**
-- ✅ **Selective Column Ingestion**
-- ✅ **Progress Monitoring**
-- ✅ **Clean API Design**
+- ✅ **TailwindCss**
+- ✅ **UseState**
+- ✅ **Toggle**
+- ✅ **Map Function**
 
 ---
 
 ## ✨ Features
 
-- 🔐 **JWT Secured APIs** – Only authorized users can ingest/export data.
-- 🔁 **Bi-directional Support** – ClickHouse → CSV and vice versa.
-- 🧠 **Smart Column Mapper** – Select only the columns you need.
-- 📊 **Progress Tracking** – Real-time ingestion/export status.
-- ⚙️ **Configurable Backend** – Easy to switch DB or file sources.
+- 🔁 **Bi-directional edit** – it can create a list and update it.
+- 🧠 **delete** – It can delete the list using delete icon.
+- ⚙️ **Click to Cancel** – if task is done it will draw a straight line through it when clicked.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Deployed !
 
