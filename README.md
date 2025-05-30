@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-This project is the second task assigned during my internship at **Celebal Technologies**. It focuses on building a robust, secure, and efficient **bi-directional data ingestion pipeline** between **ClickHouse** and **Flat Files (CSV)** using:
+This project is the second task assigned during my internship at **Celebal Technologies**. It focuses on building a robust, secure, and efficient **Todo List Using React JS And its States** between **ClickHouse** and **Flat Files (CSV)** using:
 
 - ✅ **JWT Authentication**
 - ✅ **Selective Column Ingestion**
