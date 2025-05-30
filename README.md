@@ -1,12 +1,8 @@
 # 🚀 Celebal Technology – Task 2
 
-![Stars](https://img.shields.io/github/stars/your-repo-name?style=social)  
-![License](https://img.shields.io/github/license/your-repo-name)  
-![Issues](https://img.shields.io/github/issues/your-repo-name)  
-![PRs](https://img.shields.io/github/issues-pr/your-repo-name)
 
-> **Project Title:** `ClickHouse to CSV Bi-Directional Data Ingestion with JWT Auth & Column Selection`  
-> **Author:** [Priyanshu Verma](https://github.com/your-profile)  
+> **Project Title:** `Task-2 To do List`  
+> **Author:** [Priyanshu Verma](https://github.com/priyanshuuverma)
 > **Internship at:** Celebal Technologies  
 
 ---
